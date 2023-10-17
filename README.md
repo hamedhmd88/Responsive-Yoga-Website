@@ -6,7 +6,6 @@ A website for yoga and featuring instructors and proper yoga moves
 
 
 
-
 ## Features
 
 - Responsive page
